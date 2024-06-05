@@ -31,17 +31,17 @@
 </p>
 <br/>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
-</p>
 
+</p>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 <br/>
 
 <h2 align="center">
  GitHub Stats
 </h2>
-
-<p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VidushaSanidu&theme=blue-green)](https://git.io/streak-stats)
+<p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="sanju" />
   &nbsp;&nbsp;
 </p>
