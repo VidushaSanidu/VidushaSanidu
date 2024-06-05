@@ -18,11 +18,11 @@
 <code><img height="75" src="https://skillicons.dev/icons?i=nodejs"></code> &nbsp;&nbsp;
 </p>
 
-<p align="center">
- 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
-</p>
+</div>
 
 <br/>
 <h2 align="center">
@@ -37,11 +37,11 @@
 <code><img height="60" src="https://skillicons.dev/icons?i=solidity"></code> &nbsp;&nbsp;
 </p>
 
-<p align="center">
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
-</p>
+</div>
 
 <br/>
 
@@ -55,11 +55,11 @@
 
 </p>
 
-<p align="center">
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VidushaSanidu&theme=blue-green)](https://git.io/streak-stats)
 
-</p>
+</div>
 
 <p align="center">
  <a href="mailto:vidushsanidu07@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
