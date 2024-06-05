@@ -2,10 +2,9 @@
 
 <h3 align="center">
     I'm currently pursuing an Honors degree in Computer Science @UOP <br/>
-    striving to become an exceptional Full Stack Developer.:)   
+    Striving to become an exceptional Full Stack Developer.:)   
 </h3>
 <h3 align="center">Innovative | Enthusiastic | Inspiring</h3>
-<br/>
 <br/>
 
 <h2 align="center">
@@ -29,6 +28,7 @@
 <code><img height="60" src="https://skillicons.dev/icons?i=python"></code> &nbsp;&nbsp;
 <code><img height="60" src="https://skillicons.dev/icons?i=c"></code> &nbsp;&nbsp;
 <code><img height="60" src="https://skillicons.dev/icons?i=solidity"></code> &nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 </p>
 
 <br/>
