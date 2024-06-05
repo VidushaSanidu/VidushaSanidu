@@ -32,20 +32,26 @@
 <br/>
 <p align="center">
 
-</p>
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+
+</p>
+
 <br/>
 
 <h2 align="center">
  GitHub Stats
 </h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VidushaSanidu&theme=blue-green)](https://git.io/streak-stats)
-<p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="sanju" />
-  &nbsp;&nbsp;
+<p align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VidushaSanidu&theme=blue-green)](https://git.io/streak-stats)
+<img  src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="sanju" />
+&nbsp;&nbsp;
+
 </p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent" alt="vidusha" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent" alt="vidusha" />
+</p>
 
 <p align="center">
  <a href="mailto:vidushsanidu07@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
