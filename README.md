@@ -17,6 +17,13 @@
 <code><img height="75" src="https://skillicons.dev/icons?i=expressjs"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://skillicons.dev/icons?i=nodejs"></code> &nbsp;&nbsp;
 </p>
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+
+</p>
+
 <br/>
 <h2 align="center">
   Here are some Languages I use:
@@ -29,7 +36,6 @@
 <code><img height="60" src="https://skillicons.dev/icons?i=c"></code> &nbsp;&nbsp;
 <code><img height="60" src="https://skillicons.dev/icons?i=solidity"></code> &nbsp;&nbsp;
 </p>
-<br/>
 <p align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
@@ -43,14 +49,15 @@
 </h2>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent" alt="vidusha" />
+
+<img  src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="vidu" />
+</p>
+
+<p align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VidushaSanidu&theme=blue-green)](https://git.io/streak-stats)
-<img  src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="sanju" />
-&nbsp;&nbsp;
 
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent" alt="vidusha" />
 </p>
 
 <p align="center">
