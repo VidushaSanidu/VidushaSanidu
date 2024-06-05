@@ -32,13 +32,21 @@
 
 <p align="center">[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)</p>
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,nestjs,react,next,django)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,kubernetes,docker)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+
 <br/>
 
-### 📈 My Github Stats:
+<h2 align="center">
+ GitHub Stats
+</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VidushaSanidu&theme=blue-green)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="sanju" />
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="sanju" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent" alt="vidusha" />
 </p>
