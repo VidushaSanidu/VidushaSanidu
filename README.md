@@ -2,7 +2,7 @@
 
 <h3 align="center">
     I'm currently pursuing an Honors degree in Computer Science @UOP <br/>
-    Striving to become an exceptional Full Stack Developer.:)   
+    Striving to become an exceptional Full Stack Developer:)   
 </h3>
 <h3 align="center">Innovative | Enthusiastic | Inspiring</h3>
 <br/>
@@ -64,5 +64,5 @@
 <p align="center">
  <a href="mailto:vidushsanidu07@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/VidushaSanidu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="www.linkedin.com/in/vidusha-sanidu-867a84214"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/vidusha-sanidu-867a84214"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
