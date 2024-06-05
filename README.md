@@ -4,7 +4,7 @@
     I'm currently pursuing an Honors degree in Computer Science @UOP <br/>
     striving to become an exceptional Full Stack Developer.:)   
 </h3>
-<h3>Innovative | Enthusiastic | Inspiring</h3>
+<h3 align="center">Innovative | Enthusiastic | Inspiring</h3>
 <br/>
 <br/>
 
@@ -12,33 +12,30 @@
   Here are some technologies I use:
 </h2>
 <p align="center">
-<code><img height="70" src="https://skillicons.dev/icons?i=nextjs"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://skillicons.dev/icons?i=reactjs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=nextjs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=react"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://skillicons.dev/icons?i=nestjs"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://skillicons.dev/icons?i=expressjs"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://skillicons.dev/icons?i=nodejs"></code> &nbsp;&nbsp;
 </p>
 <br/>
-
+<h2 align="center">
+  Here are some Languages I use:
+</h2>
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img height="60" src="https://skillicons.dev/icons?i=typescript"></code> &nbsp;&nbsp;
+<code><img height="60" src="https://skillicons.dev/icons?i=javascript"></code> &nbsp;&nbsp;
+<code><img height="60" src="https://skillicons.dev/icons?i=java"></code> &nbsp;&nbsp;
+<code><img height="60" src="https://skillicons.dev/icons?i=python"></code> &nbsp;&nbsp;
+<code><img height="60" src="https://skillicons.dev/icons?i=c"></code> &nbsp;&nbsp;
+<code><img height="60" src="https://skillicons.dev/icons?i=solidity"></code> &nbsp;&nbsp;
 </p>
 
 <br/>
 
-<br/>
 <p align="center">
- <a href="mailto:chandu25.srm@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://in.linkedin.com/in/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/chanduultimate4"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+ <a href="mailto:vidushsanidu07@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/VidushaSanidu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="www.linkedin.com/in/vidusha-sanidu-867a84214"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
     <a href="https://chandan.dev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
-  <a href="https://medium.com/@chandan.reddy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
 </p>
-
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
