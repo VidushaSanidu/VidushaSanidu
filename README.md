@@ -1,22 +1,24 @@
 <h1 align="center"> Heyy, I'm ViduzX </h1>
 
 <h3 align="center">
-    An awesome Full Stack Developer :)
+    I'm Currently following an honors degree in Computer Science @UOP
 </h3>
-
+<h3 align="center">
+    Trying to be an Awesome Full Stack Developer :)
+</h3>
+<h3 align="center">
+    Innovative | Enthusiastic | Inspiring
+</h3>
 <br/>
 <br/>
 
 <h2 align="center">
-  Here are some technologies I use at work:
+  Here are some technologies I use:
 </h2>
 <p align="center">
 <code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
 </p>
 
 <br/>
