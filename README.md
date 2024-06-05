@@ -30,13 +30,9 @@
 <code><img height="60" src="https://skillicons.dev/icons?i=solidity"></code> &nbsp;&nbsp;
 </p>
 
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)</p>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,nestjs,react,next,django)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,kubernetes,docker)](https://skillicons.dev)
-
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+</p>
 
 <br/>
 
