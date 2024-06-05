@@ -1,63 +1,45 @@
-# Hi there 👋, I'm Vidusha Sanidu!
+<h1 align="center"> Heyy, I'm ViduzX </h1>
 
-![Header](https://your-header-image-url)
+<h3 align="center">
+    An awesome Full Stack Developer :)
+</h3>
 
-## 🚀 About Me
+<br/>
+<br/>
 
-I'm a passionate Full Stack Developer from Sri Lanka. I love working on open source projects, learning new technologies, and sharing knowledge with the community.
+<h2 align="center">
+  Here are some technologies I use at work:
+</h2>
+<p align="center">
+<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
+</p>
 
-- 🌱 I’m currently learning Nest.js
-- 👯 I’m looking to collaborate on Backend projects
+<br/>
 
-## 🛠️ Skills
+<p align="center">
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+</p>
 
-- **Languages:** TypeScript, JavaScript, Java, Python, C, R, Solidity
-- **Frameworks & Libraries:** Next.js, Nest.js, Express.js, React.js
-- **Tools & Platforms:** Tailwind, NextUI
+<br/>
 
-## 📊 GitHub Stats
+<br/>
+<p align="center">
+ <a href="mailto:chandu25.srm@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://in.linkedin.com/in/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/chanduultimate4"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+    <a href="https://chandan.dev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+  <a href="https://medium.com/@chandan.reddy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
+</p>
 
-![Vidusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidushaSanidu&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=VidushaSanidu&theme=radical)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
-[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://your-website-url)
-
-## 💻 Projects
-
-- [Project 1](https://github.com/VidushaSanidu/project1) - Description of Project 1
-- [Project 2](https://github.com/VidushaSanidu/project2) - Description of Project 2
-- [Project 3](https://github.com/VidushaSanidu/project3) - Description of Project 3
-
-## ✍️ Blog Posts
-
-- [Blog Post 1](https://your-blog-url.com/blog-post-1)
-- [Blog Post 2](https://your-blog-url.com/blog-post-2)
-- [Blog Post 3](https://your-blog-url.com/blog-post-3)
-
-## 📚 Certificates
-
-- [Certificate 1](https://your-certificate-url.com) - Description of Certificate 1
-- [Certificate 2](https://your-certificate-url.com) - Description of Certificate 2
-
-## 💬 Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-blue?style=flat&logo=r&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-gray?style=flat&logo=solidity&logoColor=white)
-
-## 📝 License
-
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
