@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=css,typeorm,prizma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,prisma,git,figma,tailwind)](https://skillicons.dev)
 
 </div>
 
@@ -65,5 +65,4 @@
  <a href="mailto:vidushsanidu07@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/VidushaSanidu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="www.linkedin.com/in/vidusha-sanidu-867a84214"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-    <a href="https://chandan.dev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
