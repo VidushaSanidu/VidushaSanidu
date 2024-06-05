@@ -1,10 +1,10 @@
 <h1 align="center"> Heyy, I'm ViduzX </h1>
 
 <h3 align="center">
-    I'm Currently following an honors degree in Computer Science @UOP <br/>
-    Trying to be an Awesome Full Stack Developer :) <br/>
-    Innovative | Enthusiastic | Inspiring
+    I'm currently pursuing an Honors degree in Computer Science @UOP <br/>
+    striving to become an exceptional Full Stack Developer.:)   
 </h3>
+<h3>Innovative | Enthusiastic | Inspiring</h3>
 <br/>
 <br/>
 
@@ -12,11 +12,11 @@
   Here are some technologies I use:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://skillicons.dev/icons?i=nodejs"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://skillicons.dev/icons?i=nextjs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=reactjs"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://skillicons.dev/icons?i=nestjs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=expressjs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=nodejs"></code> &nbsp;&nbsp;
 </p>
 <br/>
 
