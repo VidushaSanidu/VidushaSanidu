@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-
+ 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 </p>
@@ -36,6 +36,7 @@
 <code><img height="60" src="https://skillicons.dev/icons?i=c"></code> &nbsp;&nbsp;
 <code><img height="60" src="https://skillicons.dev/icons?i=solidity"></code> &nbsp;&nbsp;
 </p>
+
 <p align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
@@ -49,9 +50,9 @@
 </h2>
 
 <p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="vidu" />&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent" alt="vidusha" />
 
-<img  src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="vidu" />
 </p>
 
 <p align="center">
