@@ -28,8 +28,8 @@
 <code><img height="60" src="https://skillicons.dev/icons?i=python"></code> &nbsp;&nbsp;
 <code><img height="60" src="https://skillicons.dev/icons?i=c"></code> &nbsp;&nbsp;
 <code><img height="60" src="https://skillicons.dev/icons?i=solidity"></code> &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 </p>
+<p>[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)</p>
 
 <br/>
 
