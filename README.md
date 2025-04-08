@@ -2,7 +2,7 @@
 
 <h3 align="center">
     I'm currently pursuing an Honors degree in Computer Science @UOP <br/>
-    Striving to become an exceptional Full Stack Developer:)   
+    Full Stack Developer with the passion of AI and Blockchain.
 </h3>
 <h3 align="center">Innovative | Enthusiastic | Inspiring</h3>
 <br/>
