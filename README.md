@@ -1,8 +1,8 @@
 <h1 align="center"> Heyy, I'm ViduzX </h1>
 
 <h3 align="center">
-    I'm currently pursuing an Honors degree in Computer Science @UOP <br/>
-    Full Stack Developer with the passion of AI and Blockchain.
+    Full Stack Developer with the passion of Cloud and AI.
+    I'm currently working in Taino Spain SL as an AI Integration and Automation Engineer <br/>
 </h3>
 <h3 align="center">Innovative | Enthusiastic | Inspiring</h3>
 <br/>
@@ -15,7 +15,8 @@
 <code><img height="75" src="https://skillicons.dev/icons?i=react"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://skillicons.dev/icons?i=nestjs"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://skillicons.dev/icons?i=expressjs"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://skillicons.dev/icons?i=nodejs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=django"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=fastapi"></code> &nbsp;&nbsp;
 </p>
 
 <div align="center">
