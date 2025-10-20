@@ -1,8 +1,8 @@
 <h1 align="center"> Heyy, I'm ViduzX </h1>
 
 <h3 align="center">
-    Full Stack Developer with the passion of Cloud and AI.
-    I'm currently working in Taino Spain SL as an AI Integration and Automation Engineer <br/>
+    Full Stack Developer with the passion of Cloud and AI.<br/>
+    I'm currently working in Taino Spain SL as an AI Integration and Automation Engineer 
 </h3>
 <h3 align="center">Innovative | Enthusiastic | Inspiring</h3>
 <br/>
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=css,prisma,git,figma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typeorm,prisma,git,figma,tailwind,docker,langchain,langraph)](https://skillicons.dev)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,chromadb)](https://skillicons.dev)
 
 </div>
 
