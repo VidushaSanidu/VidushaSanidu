@@ -52,7 +52,7 @@
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="vidu" />&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent" alt="vidusha" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent&hide=javascript" alt="vidusha" />
 
 </p>
 
