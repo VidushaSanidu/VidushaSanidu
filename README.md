@@ -1,8 +1,7 @@
 <h1 align="center"> Heyy, I'm ViduzX </h1>
 
 <h3 align="center">
-    Full Stack Developer with the passion of Cloud and AI.<br/>
-    I'm currently working in Taino Spain SL as an AI Integration and Automation Engineer 
+    Full Stack Developer with the experience of Cloud and AI :)<br/>
 </h3>
 <h3 align="center"><a href="https://viduzx.xanvia.tech">viduzx.xanvia.tech</a></h3>
 <h4 align="center">Innovative | Enthusiastic | Inspiring</h4>
