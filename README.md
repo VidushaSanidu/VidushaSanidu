@@ -1,69 +1,79 @@
-<h1 align="center"> Heyy, I'm ViduzX </h1>
+<h1 align="center">Hi, I'm Vidusha Sanidu 👋</h1>
 
-<h3 align="center">
-    Full Stack Developer with the experience of Cloud and AI :)<br/>
-</h3>
-<h3 align="center"><a href="https://viduzx.xanvia.tech">viduzx.xanvia.tech</a></h3>
-<h4 align="center">Innovative | Enthusiastic | Inspiring</h4>
-<br/>
-
-<h2 align="center">
-  Here are some technologies I use:
-</h2>
 <p align="center">
-<code><img height="75" src="https://skillicons.dev/icons?i=nextjs"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://skillicons.dev/icons?i=react"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://skillicons.dev/icons?i=nestjs"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://skillicons.dev/icons?i=expressjs"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://skillicons.dev/icons?i=django"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://skillicons.dev/icons?i=fastapi"></code> &nbsp;&nbsp;
+  <b>Computer Science Researcher & Scholar | University of Peradeniya</b><br/>
+  <i>Exploring Privacy-Preserving Distributed Machine Learning & Collaborative Intelligence</i>
 </p>
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=typeorm,prisma,git,figma,tailwind,docker,langchain,langraph)](https://skillicons.dev)
-
-</div>
-
-<br/>
-<h2 align="center">
-  Here are some Languages I use:
-</h2>
 <p align="center">
-<code><img height="60" src="https://skillicons.dev/icons?i=typescript"></code> &nbsp;&nbsp;
-<code><img height="60" src="https://skillicons.dev/icons?i=javascript"></code> &nbsp;&nbsp;
-<code><img height="60" src="https://skillicons.dev/icons?i=java"></code> &nbsp;&nbsp;
-<code><img height="60" src="https://skillicons.dev/icons?i=python"></code> &nbsp;&nbsp;
-<code><img height="60" src="https://skillicons.dev/icons?i=c"></code> &nbsp;&nbsp;
-<code><img height="60" src="https://skillicons.dev/icons?i=solidity"></code> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vidusha-sanidu-867a84214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vidushsanidu07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/VidushaSanidu"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- Placeholder for Google Scholar / ORCID badges:
+  <a href="YOUR_SCHOLAR_URL"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Scholar"/></a>
+  <a href="YOUR_ORCID_URL"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  -->
 </p>
 
-<div align="center">
+---
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,chromadb)](https://skillicons.dev)
+### 🔬 Research Interests
 
-</div>
+My academic focus centers on distributed intelligence, edge learning, and privacy-preserving machine learning frameworks:
 
-<br/>
+- **Federated Learning (FL):** Decentralized model training, aggregation algorithms, heterogeneous data distribution (non-IID), communication efficiency, and client drift mitigation.
+- **Machine Learning & Deep Learning:** Representation learning, optimization, neural network architectures, and statistical learning.
+- **Privacy & Security in AI:** Differential privacy (DP), secure aggregation, and adversarial robustness in collaborative ML.
+- **Distributed Computing & Edge Intelligence:** Resource-constrained model deployment, on-device training, and edge-cloud orchestration.
 
-<h2 align="center">
- GitHub Stats
-</h2>
+---
+
+### 🎓 Academic Background & Affiliation
+
+- **B.Sc. (Hons) in Computer Science** — University of Peradeniya (UOP)
+- Actively investigating scalable and robust decentralized learning paradigms.
+- Open to academic research collaborations, preprints, and interdisciplinary initiatives.
+
+---
+
+### 📚 Selected Research & Publications
+
+> *Currently preparing preprints and research manuscripts in Federated Learning.*
+
+- **[Working Paper / Preprint Title]** — *Authors, Venue / arXiv Year* (Coming Soon)
+- *(Add your papers, preprints, conference posters, or undergraduate thesis topics here)*
+
+---
+
+### 🛠️ Research & Technical Toolkit
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="vidu" />&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=transparent&hide=javascript" alt="vidusha" />
-
+  <b>Core Research & ML Stack</b><br/>
+  <code><img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" /></code> &nbsp;
+  <code><img height="40" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></code> &nbsp;
+  <code><img height="40" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></code> &nbsp;
+  <code><img height="40" src="https://skillicons.dev/icons?i=c" alt="C" /></code> &nbsp;
+  <code><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git" /></code> &nbsp;
+  <code><img height="40" src="https://skillicons.dev/icons?i=linux" alt="Linux" /></code>
 </p>
 
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VidushaSanidu&theme=blue-green)](https://git.io/streak-stats)
-
-</div>
-<h4 align="center"> Find me on:</h4>
 <p align="center">
- <a href="mailto:vidushsanidu07@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/VidushaSanidu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/vidusha-sanidu-867a84214"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <b>Systems & Full-Stack Engineering (Foundation)</b><br/>
+  <code><img height="35" src="https://skillicons.dev/icons?i=typescript,nodejs,nextjs,react,postgres,mongodb" alt="Tech Stack" /></code>
+</p>
+
+---
+
+### 📊 Research & Code Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VidushaSanidu&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidushaSanidu&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Passionate about advancing decentralized and trustworthy AI for real-world impact."</i>
 </p>
